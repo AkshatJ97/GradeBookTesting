@@ -26,8 +26,7 @@ Develop Real-Time Spring Boot Unit Tests: JUnit 5, Mockito, MockMvc, TDD, JsonPa
 
 
 
-**Test Driven Development (TDD)
-**
+**Test Driven Development (TDD)**
 
 * Apply Test Driven Development for build tests and application code
 
@@ -43,8 +42,7 @@ Develop Real-Time Spring Boot Unit Tests: JUnit 5, Mockito, MockMvc, TDD, JsonPa
 
 
 
-**Spring Boot Unit Testing Support
-**
+**Spring Boot Unit Testing Support**
 
 * Explore annotations for Spring Boot Unit Testing support
 
@@ -58,8 +56,7 @@ Develop Real-Time Spring Boot Unit Tests: JUnit 5, Mockito, MockMvc, TDD, JsonPa
 
 
 
-**Mocking with Mockito
-**
+**Mocking with Mockito**
 
 * Identify the need for mocking during test development
 
@@ -71,8 +68,7 @@ Develop Real-Time Spring Boot Unit Tests: JUnit 5, Mockito, MockMvc, TDD, JsonPa
 
 
 
-**Spring Reflection Utils
-**
+**Spring Reflection Utils**
 
 * Identify use cases for applying reflection in your JUnit tests
 
@@ -82,8 +78,7 @@ Develop Real-Time Spring Boot Unit Tests: JUnit 5, Mockito, MockMvc, TDD, JsonPa
 
 
 
-**Database Integration Testing
-**
+**Database Integration Testing**
 
 * Identify the need for database integration testing during test development
 
@@ -95,8 +90,7 @@ Develop Real-Time Spring Boot Unit Tests: JUnit 5, Mockito, MockMvc, TDD, JsonPa
 
 
 
-**Testing Spring Boot MVC Web Apps with MockMvc
-**
+**Testing Spring Boot MVC Web Apps with MockMvc**
 
 * Apply Spring Boot using testing for a Spring MVC CRUD web app
 
@@ -114,8 +108,7 @@ Develop Real-Time Spring Boot Unit Tests: JUnit 5, Mockito, MockMvc, TDD, JsonPa
 
 
 
-**Testing Spring Boot REST APIs with MockMvc
-**
+**Testing Spring Boot REST APIs with MockMvc**
 
 * Apply Spring Boot using testing for a Spring REST CRUD API
 
